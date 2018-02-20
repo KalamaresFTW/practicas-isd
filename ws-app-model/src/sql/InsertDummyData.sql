@@ -1,0 +1,4 @@
+INSERT INTO Driver (name, city, vehicleModel, startHour, endHour, registrationDate) VALUES ('Driver1', 'Coru', 'Ford', 10, 13, '2017-11-01 16:45:34');
+INSERT INTO Driver (name, city, vehicleModel, startHour, endHour, registrationDate) VALUES ('Driver2', 'Ponte', 'Ford', 16, 22, '2017-11-01 16:45:34');
+INSERT INTO Driver (name, city, vehicleModel, startHour, endHour, registrationDate) VALUES ('Driver3', 'Coru', 'Ford', 11, 15, '2017-11-01 16:45:34');
+INSERT INTO Driver (name, city, vehicleModel, startHour, endHour, registrationDate) VALUES ('Driver4', 'Ponte', 'Ford', 23, 6, '2017-11-01 16:45:34');
